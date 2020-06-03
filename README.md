@@ -1,7 +1,5 @@
 # Plexus
 
-![Title Screen](/public/title.png)
-
 A 2D side-scrolling PC adventure game developed in Java.
 
 ## Team
