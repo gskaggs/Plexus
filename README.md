@@ -1,17 +1,23 @@
 # Plexus
+
+![Title Screen](/public/title.png)
+
 A 2D side-scrolling adventure PC game developed in Java.
 
-## The Team
+## Team
 * Grant Skaggs: Team Lead, Game Design, Art / Music
-* Jacob McCalla: Programming Implementation
+* Jacob McCalla: Algorithms, Programming Implementation
 * Ahmed Sliman: Programming Implementation
-* Karina Muffoletto: Documentation, Organization
+* Karina Muffoletto: Documentation, Team Organization
 
-## The Gameplay
-You're a strange robot stranded on a strange planet. Collect coins and hearts, avoid the red spikes, and make it through each custom level to save your true love.
+## Gameplay
 
-Use the left / right arrow keys to glide and the up arrow key to jump. Hit esc to pause and make sure to save your state before powering off.
+![Gameplay](/public/gameplay.png)
 
-## The Competition
+You're a strange robot stranded in a strange land. Collect coins and hearts, avoid the flying red spikes, and make it through each challenging level to save your true love.
+
+Use the left / right arrow keys to glide and the up arrow key to jump. Hit esc to pause, and make sure to save your state before powering off.
+
+## Competition
 This project was our submission to the 2018 Business Professionals of America (BPA) National Software Engineering Team Competition.
 
