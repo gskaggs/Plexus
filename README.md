@@ -2,7 +2,7 @@
 
 ![Title Screen](/public/title.png)
 
-A 2D side-scrolling adventure PC game developed in Java.
+A 2D side-scrolling PC adventure game developed in Java.
 
 ## Team
 * Grant Skaggs: Team Lead, Game Design, Art / Music
